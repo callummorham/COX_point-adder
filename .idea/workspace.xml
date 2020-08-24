@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d985cf9-7051-412d-a22a-8115ff7ca3a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="COX_point adder" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNXm9ORIvn9K4oNHm9f0a4GjsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Callum Morham\IdeaProjects\COX_point adder" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="COX_point adder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d985cf9-7051-412d-a22a-8115ff7ca3a5" name="Default Changelist" comment="" />
+      <created>1597956179822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597956179822</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Project_Structure" timestamp="1597956200213">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1597956200213" />
+    <state x="676" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1598235838712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598235838712" />
+    <state width="1877" height="18" key="GridCell.Tab.0.bottom" timestamp="1598244591063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598244591063" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1598231282787" />
+    <state width="1877" height="18" key="GridCell.Tab.0.center" timestamp="1598244591063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598244591063" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1598231282787" />
+    <state width="1877" height="18" key="GridCell.Tab.0.left" timestamp="1598244591062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598244591062" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1598231282787" />
+    <state width="1877" height="18" key="GridCell.Tab.0.right" timestamp="1598244591063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598244591063" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1598231282787" />
+    <state width="1877" height="882" key="GridCell.Tab.1.bottom" timestamp="1598242545323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598242545323" />
+    <state width="1877" height="882" key="GridCell.Tab.1.center" timestamp="1598242545322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598242545322" />
+    <state width="1877" height="882" key="GridCell.Tab.1.left" timestamp="1598242545321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598242545321" />
+    <state width="1877" height="882" key="GridCell.Tab.1.right" timestamp="1598242545323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598242545323" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1598241326387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598241326387" />
+    <state x="-1792" y="102" width="1424" height="717" key="dock-window-1" timestamp="1597993263257">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1792" y="102" width="1424" height="717" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1597993263257" />
+    <state x="-2109" y="-11" width="1424" height="600" maximized="true" key="dock-window-2" timestamp="1598227749565">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-2109" y="-11" width="1424" height="600" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1598227749565" />
+    <state x="-1928" y="-8" width="1424" height="579" maximized="true" key="dock-window-3" timestamp="1598232917637">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1928" y="-8" width="1424" height="579" maximized="true" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598232917637" />
+    <state x="-1928" y="-8" width="1424" height="579" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1598230066617" />
+    <state x="438" y="-9" width="1424" height="602" maximized="true" key="dock-window-4" timestamp="1598241712127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="438" y="-9" width="1424" height="602" maximized="true" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598241712127" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COX_point_adder$Main.ic" NAME="Main Coverage Results" MODIFIED="1598235492465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
